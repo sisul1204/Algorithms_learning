@@ -1,7 +1,7 @@
 # -*- coding=utf-8 -*-
 # @Author   : lizp
 # @time     : 2022/5/29 08:23
-# @file     : x的平方根.py
+# @file     : 69x的平方根.py
 # @software : PyCharm
 
 class Solution:
