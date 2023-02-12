@@ -23,6 +23,6 @@ class Solution:
 
 if __name__ == '__main__':
     s = Solution()
-    b = s.isPerfectSquare(1)
+    b = s.isPerfectSquare(6)
     print(b)
 
